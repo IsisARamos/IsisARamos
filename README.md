@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou a Isis Ramos! 👋</h1>
+<h1 align="center">Oi,sou a Isis, e aqui é um pouquinho do que estou aprendendo! 👋</h1>
 
 <p align="center">
   Curiosa por natureza e apaixonada pelo universo da programação 🚀
